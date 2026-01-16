@@ -1,32 +1,35 @@
-# 🎬 Virtual Theater - Movie Experience
+# Virtual Movie Theater
 
-An immersive virtual movie theater application.
+## Overview
+A web-based virtual movie theater experience that allows users to browse movies, view showtimes, and book tickets in a visually simulated cinema environment. This project demonstrates responsive frontend design and interactive UI components.
 
----
+## Features
+-   **Movie Browser**: Catalog of currently showing films with details and ratings.
+-   **Seat Selection**: Interactive seating chart for booking specific spots.
+-   **Virtual Lobby**: Simulated environment for a realistic user journey.
+-   **Responsive Design**: Optimized for desktop and mobile viewing.
 
-## 🌟 Overview
+## Technology Stack
+-   **Frontend**: HTML5, CSS3, JavaScript.
+-   **Styling**: Custom CSS animations.
 
-Virtual Theater creates an immersive movie-watching experience with virtual environment features.
+## Usage Flow
+1.  **Browse**: User views the list of available movies.
+2.  **Select**: Click on a movie to see details and showtimes.
+3.  **Book**: Choose seats on the visual map.
+4.  **Confirm**: Finalize the booking and receive a ticket summary.
 
-## 📁 Project Structure
-
-```
-movie/
-└── virtual-theater/   # Main application
-```
-
-## 🚀 Quick Start
-
+## Quick Start
 ```bash
-cd virtual-theater
-npm install
-npm start
+# Clone the repository
+git clone https://github.com/Nytrynox/Movie-Virtual-Theater.git
+
+# Open the application
+open index.html
 ```
 
-## 📝 License
-
+## License
 MIT License
 
-## 👤 Author
-
+## Author
 **Karthik Idikuda**
